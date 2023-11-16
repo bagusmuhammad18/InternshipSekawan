@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="submit">Add Photo</string>
+    <string name="empty_image_warning">No photo added!</string>
+    <string name="nama"><b>Bagus Muhammad</b></string>
+    <string name="porto"><b>Portfolio</b></string>
+
+</resources>
