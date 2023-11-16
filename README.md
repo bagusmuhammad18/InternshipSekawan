@@ -5,3 +5,4 @@ Through this application, users can upload photos and descriptions that go with 
 
 Note: I understand that the task should be completed in React Native. However, due to recent hectic days, I didn't have the time to learn it. Consequently, I opted to complete it using Kotlin.
 
+apk: https://drive.google.com/file/d/1007w-sGHGSjzinpQNdoacOIuSi8bE_JP/view?usp=sharing
